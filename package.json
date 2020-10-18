@@ -1,0 +1,26 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with Create React App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyp615/React_Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyp615/React_Portfolio/issues"
+  },
+  "homepage": "https://github.com/kennyp615/React_Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
